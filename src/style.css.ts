@@ -110,7 +110,7 @@ const plan = style({
 
 const benefit = style({
   flex: "1 1 calc(50% - 8px)",
-  minHeight: "166px",
+  minHeight: "174px",
   backgroundColor: "#F2F3F5",
   borderRadius: "1rem",
   boxSizing: "border-box",
